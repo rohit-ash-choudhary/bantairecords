@@ -1,0 +1,50 @@
+body{
+    background-image: url("bantai.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    margin-bottom: 1px;
+    
+   
+}  
+
+#imag{
+    display: inline;
+    margin-left: 42%;
+    
+    margin-top:6%;
+}
+ 
+#alllogo{
+    margin-left: 470px;
+}
+
+#list{
+    margin-left: 10%;
+    margin-top: 1%;
+}
+ul
+{
+    display: inline;
+    padding-left: 10%;
+    border: 10px solid;
+    
+
+    
+}
+
+
+
+.item{
+     color:white;
+     padding: 20px;
+     float: left;
+     
+     padding: 50px;
+}
+li{
+    display:inline-block;
+    float: left;
+}
+
